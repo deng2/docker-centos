@@ -12,3 +12,4 @@ RemoteSystemsTempFiles
 node_modules
 _.sw*
 .*.sw*
+*.tar.gz
